@@ -6,7 +6,7 @@ image=cv2.resize(img,(300,300))
 start_point = (50, 50)
 end_point = (250, 250)
 
-color = (255, 0, 0)  
+color = (250, 0, 0)  
 
 thickness = 4
 
